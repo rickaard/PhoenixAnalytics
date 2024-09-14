@@ -66,7 +66,7 @@ defmodule PhoenixAnalytics.MixProject do
       {:duckdbex, "~> 0.3"},
       {:telemetry, "~> 1.2"},
       {:live_react, "~> 0.1"},
-      {:phoenix_live_view, "~> 1.0.0-rc.1 or ~> 1.0"},
+      {:phoenix_live_view, "~> 0.20.2"},
       # --- dev deps ---
       {:ex_doc, "~> 0.33", only: :dev},
       {:esbuild, "~> 0.8", only: :dev, runtime: false},
